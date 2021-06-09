@@ -1,0 +1,1837 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6343835274021138092
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3107517655432588823}
+  m_Layer: 0
+  m_Name: Red
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3107517655432588823
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6343835274021138092}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.8037677, y: -0.11602974, z: 8.753431}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1685121566587744571}
+  - {fileID: 1820856835277159931}
+  - {fileID: 6264675409832512319}
+  - {fileID: 1680694152699921849}
+  - {fileID: 6083807140343973245}
+  - {fileID: 583868796384424900}
+  - {fileID: 5967354894416028418}
+  - {fileID: 9066364769080790837}
+  - {fileID: 4901525111442460111}
+  - {fileID: 2648604263516507809}
+  - {fileID: 4714472749958546763}
+  - {fileID: 2916205112179980625}
+  - {fileID: 1685121565590997097}
+  - {fileID: 1685121566196268264}
+  - {fileID: 1685121565553371901}
+  - {fileID: 1685121566512119068}
+  - {fileID: 1685121566105487955}
+  - {fileID: 1685121566310371126}
+  - {fileID: 1685121565134209731}
+  - {fileID: 1685121564621647058}
+  - {fileID: 1685121565057939367}
+  - {fileID: 1685121564514982970}
+  - {fileID: 1685121566292556493}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &959857230388199445
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3107517655432588823}
+    m_Modifications:
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_Name
+      value: Barricada Concreto (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 50.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 213.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.4055798
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.579228
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.4055798
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.579228
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -110
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+--- !u!4 &9066364769080790837 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+  m_PrefabInstance: {fileID: 959857230388199445}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2472588349757942818
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3107517655432588823}
+    m_Modifications:
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_Name
+      value: Barricada Concreto (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 34.61
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -9.44
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 213.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+--- !u!4 &5967354894416028418 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+  m_PrefabInstance: {fileID: 2472588349757942818}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2661114957285575261
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3107517655432588823}
+    m_Modifications:
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_Name
+      value: Barricada Concreto (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 65.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 205.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.4055798
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.579228
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.4055798
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.579228
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -110
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+--- !u!4 &6083807140343973245 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+  m_PrefabInstance: {fileID: 2661114957285575261}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2769910308427088927
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3107517655432588823}
+    m_Modifications:
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_Name
+      value: Barricada Concreto (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 23.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -10.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 210.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+--- !u!4 &6264675409832512319 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+  m_PrefabInstance: {fileID: 2769910308427088927}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3597532041635531371
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3107517655432588823}
+    m_Modifications:
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_Name
+      value: Barricada Concreto (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 79.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 223.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.4055798
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.579228
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.4055798
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.579228
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -110
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+--- !u!4 &4714472749958546763 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+  m_PrefabInstance: {fileID: 3597532041635531371}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3784603369929376495
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3107517655432588823}
+    m_Modifications:
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_Name
+      value: Barricada Concreto (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 66.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 223.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.4055798
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.579228
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.4055798
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.579228
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -110
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+--- !u!4 &4901525111442460111 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+  m_PrefabInstance: {fileID: 3784603369929376495}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6071292254686855553
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3107517655432588823}
+    m_Modifications:
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_Name
+      value: Barricada Concreto (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 79.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 205.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.4055798
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.579228
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.4055798
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.579228
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -110
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+--- !u!4 &2648604263516507809 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+  m_PrefabInstance: {fileID: 6071292254686855553}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6410973787007104625
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3107517655432588823}
+    m_Modifications:
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_Name
+      value: Barricada Concreto (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 71.49
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 224.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.4055798
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.579228
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.4055798
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.579228
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -110
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+--- !u!4 &2916205112179980625 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+  m_PrefabInstance: {fileID: 6410973787007104625}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7481373731576416921
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3107517655432588823}
+    m_Modifications:
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_Name
+      value: Barricada Concreto (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -10.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+--- !u!4 &1680694152699921849 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+  m_PrefabInstance: {fileID: 7481373731576416921}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7485803411415491570
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3107517655432588823}
+    m_Modifications:
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_Name
+      value: Barricada Concreto (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 236.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.48
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 270.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8191521
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5735764
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -70
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+--- !u!4 &1685121564621647058 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+  m_PrefabInstance: {fileID: 7485803411415491570}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7485803411435705114
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3107517655432588823}
+    m_Modifications:
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_Name
+      value: Barricada Concreto (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 251.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -9.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 307
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8191521
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5735764
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -70
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+--- !u!4 &1685121564514982970 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+  m_PrefabInstance: {fileID: 7485803411435705114}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7485803411894472163
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3107517655432588823}
+    m_Modifications:
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_Name
+      value: Barricada Concreto (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 236.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -5.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 281.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8191521
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5735764
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -70
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+--- !u!4 &1685121565134209731 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+  m_PrefabInstance: {fileID: 7485803411894472163}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7485803411987544199
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3107517655432588823}
+    m_Modifications:
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_Name
+      value: Barricada Concreto (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 244.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -7.89
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 297.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8191521
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5735764
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -70
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+--- !u!4 &1685121565057939367 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+  m_PrefabInstance: {fileID: 7485803411987544199}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7485803412079306205
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3107517655432588823}
+    m_Modifications:
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_Name
+      value: Barricada Concreto (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 236.68
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 274.58
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8191521
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5735764
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -70
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+--- !u!4 &1685121565553371901 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+  m_PrefabInstance: {fileID: 7485803412079306205}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7485803412511688521
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3107517655432588823}
+    m_Modifications:
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_Name
+      value: Barricada Concreto (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 244.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 262.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8191521
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5735764
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -70
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+--- !u!4 &1685121565590997097 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+  m_PrefabInstance: {fileID: 7485803412511688521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7485803412598883699
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3107517655432588823}
+    m_Modifications:
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_Name
+      value: Barricada Concreto (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 236.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -7.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 292.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8191521
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5735764
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -70
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+--- !u!4 &1685121566105487955 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+  m_PrefabInstance: {fileID: 7485803412598883699}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7485803412929101846
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3107517655432588823}
+    m_Modifications:
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_Name
+      value: Barricada Concreto (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 244.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 289.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8191521
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5735764
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -70
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+--- !u!4 &1685121566310371126 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+  m_PrefabInstance: {fileID: 7485803412929101846}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7485803412953232877
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3107517655432588823}
+    m_Modifications:
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_Name
+      value: Barricada Concreto (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 236.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -9.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 307
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8191521
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5735764
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -70
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+--- !u!4 &1685121566292556493 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+  m_PrefabInstance: {fileID: 7485803412953232877}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7485803412982215624
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3107517655432588823}
+    m_Modifications:
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_Name
+      value: Barricada Concreto (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 250.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 270.74
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8191521
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5735764
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -70
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+--- !u!4 &1685121566196268264 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+  m_PrefabInstance: {fileID: 7485803412982215624}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7485803413205401115
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3107517655432588823}
+    m_Modifications:
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_Name
+      value: Barricada Concreto
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 16.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -10.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+--- !u!4 &1685121566587744571 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+  m_PrefabInstance: {fileID: 7485803413205401115}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7485803413263987260
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3107517655432588823}
+    m_Modifications:
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_Name
+      value: Barricada Concreto (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 250.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -5.94
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 285.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8191521
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5735764
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -70
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+--- !u!4 &1685121566512119068 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+  m_PrefabInstance: {fileID: 7485803413263987260}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7621445223549579995
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3107517655432588823}
+    m_Modifications:
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_Name
+      value: Barricada Concreto (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 34.61
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -9.44
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 213.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+--- !u!4 &1820856835277159931 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+  m_PrefabInstance: {fileID: 7621445223549579995}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8690392827582086372
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3107517655432588823}
+    m_Modifications:
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_Name
+      value: Barricada Concreto (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044465920, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.2748342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 44.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -7.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 221.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+--- !u!4 &583868796384424900 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8106527330044497696, guid: 2e7e1e9f70c78f246bb8b5e67ee4e814, type: 3}
+  m_PrefabInstance: {fileID: 8690392827582086372}
+  m_PrefabAsset: {fileID: 0}
